@@ -1,0 +1,11 @@
+{
+  "id": "spriteOverlay",
+  "name": "Sprite Overlay",
+  "description": "Toggle floating GTK sprite overlay",
+  "version": "1.0.0",
+  "author": "You",
+  "icon": "image",
+  "type": "widget",
+  "component": "./SpriteWidget.qml",
+  "permissions": ["process"]
+}
