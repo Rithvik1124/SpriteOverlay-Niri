@@ -1,4 +1,4 @@
-# Sprite Overlay Plugin for Dank Material Shell   /ᐠ˵- ⩊ -˵マ
+# GIF Overlay Plugin for Dank Material Shell   /ᐠ˵- ⩊ -˵マ
 
 A "lightweight" floating animated sprite overlay for Wayland using GTK4 + GStreamer.
 
