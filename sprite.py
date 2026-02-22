@@ -8,7 +8,7 @@ import os
 
 Gst.init(None)
 
-MEDIA_DIR = "/home/ritwix/Downloads/Redundant/media"
+MEDIA_DIR = "PATH_TO_YOUR_SPRITES_FOLDER"
 SIZE = 140  # change this to resize
 
 
